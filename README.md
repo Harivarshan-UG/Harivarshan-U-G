@@ -1,4 +1,4 @@
-# 💫 Hey there, I'm Harivarshan U G!
+# Hey there, I'm Harivarshan U G!
 
 ### 🎈 About Me:
 

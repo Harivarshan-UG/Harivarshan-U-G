@@ -4,7 +4,7 @@
 
 - 🚀 Currently working as a **Django Developer**
 - 📚 Currently learning **Python Full Stack Development**
-- 💬 Ask me about **React, Django, and Web Design**
+- 💬 Ask me about **Django, and Web Design**
 - ⚡ Fun fact: **Did you know that the first computer bug was literally a bug?**
 
 ---
